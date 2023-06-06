@@ -1,0 +1,30 @@
+git clone git@github.com:Laurajcb/20230605-LauraCallejas.git
+ 1003  ls 20230605-LauraCallejas
+ 1004  ls
+ 1005  cd  20230605-LauraCallejas
+ 1006  touch comandos.txt main.js index.html
+ 1007  ls
+ 1008  git add .
+ 1009  git commit "commit 01 de "
+ 1010  git commit - m "commit 01 de Laura Callejas "
+ 1011  git commit -m "commit 01 de Laura Callejas "
+ 1012  clear 
+ 1013  git push 
+ 1014  git chekout -b feature
+ 1015  git checkout -b feature
+ 1016  mkdir Hardware Software SeguridadInformatica
+ 1017  ls
+ 1018  ls
+ 1019  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+ 1020  le -R
+ 1021  ls -R
+ 1022  git add .
+ 1023  git commit -m "commit 02 de Laura Callejas "
+ 1024  git push origin feature 
+ 1025  git checkout main
+ 1026  ls
+ 1027  mv main.js resumenHardware.txt
+ 1028  ls
+ 1029  mv index.html resumenSoftware.txt
+ 1030  ls
+ 1031  history
